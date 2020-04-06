@@ -23,6 +23,6 @@ mid: mid price of A - mid price of B
 there is a button to let traders to revise those line
 
 ### Author:
-
 Xinyu Huang
+
 Cindy zhao
