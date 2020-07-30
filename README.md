@@ -3,6 +3,9 @@ A QT-based Trading strategy Frontend UI for hft https://github.com/nickhuangxiny
 ### open to see the program:
 demo/TradingMonitor.exe
 
+### environment
+qt 4.8.3
+http://download.qt.io/archive/qt/4.8/4.8.3/
 
 ### pair trading strategy logic
 
