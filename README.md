@@ -6,6 +6,8 @@ demo/TradingMonitor.exe
 ### environment
 qt 4.8.3
 http://download.qt.io/archive/qt/4.8/4.8.3/
+mingw
+https://osdn.net/projects/mingw/releases/p15522
 
 ### pair trading strategy logic
 
